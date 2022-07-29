@@ -1,0 +1,35 @@
+<!doctype html>
+
+	<head>
+		<title>
+			Tabelas
+		</title>
+
+	</head>
+
+	<body>
+		<h1>Produtos em Estoque</h1>
+		<table border="1">
+		<tr>
+			<td>Código</td>
+			<td>Produto</td>
+			<td>Valor</td>
+		</tr>
+
+		<tr>
+			<td>0001</td>
+			<td>Notebool</td>
+			<td>R$5.000,00</td>
+		</tr>
+
+
+
+
+
+
+		</table>
+
+		
+
+	</body>
+
